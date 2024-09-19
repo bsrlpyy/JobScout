@@ -29,7 +29,7 @@ Elimizdeki veri seti üzerinden minimum hata ile iş ilanının gerçek mi sahte
 
 ### Veri Setimiz
 Veri setimin Kaggle bağlantısı :
-[Veri Seti](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
+[Veri Seti](https://www.kaggle.com/code/busraalpay/jobscout)
 
 ##  Kullanılan Algoritmalar ve Teknikler
 
