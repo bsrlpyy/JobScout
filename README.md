@@ -62,6 +62,6 @@ Kategorik değişkenler ile hedef değişkenin ilişkisini incelemek için çapr
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun.
 
 ## İletişim
-Sorularınız için bsr.alpayy@gmail.com ile iletişime geçebilirsiniz.
+Sorularınız için  iletişime geçebilirsiniz.
 
 ---
